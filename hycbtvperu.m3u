@@ -1,275 +1,239 @@
 #EXTM3U
-#EXTINF:36,Agro TV
+#EXTINF:35,Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:96,Amazonas TV
+#EXTINF:91,Amazonas TV
 https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
-#EXTINF:27,Andes Television
+#EXTINF:33,Andes Television
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:0,Antares Television
+#EXTINF:29,Antares Television
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:28,AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:0,Autentica Television
+#EXTINF:21,Autentica Television
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:0,Best Cable Mas Cumbia
+#EXTINF:20,Best Cable Mas Cumbia
 https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8
-#EXTINF:0,Best Cable Music
+#EXTINF:23,Best Cable Music
 https://ca2.inka.net.pe/bestcablemusic/index.m3u8
-#EXTINF:0,Best Cable Peru
+#EXTINF:23,Best Cable Peru
 https://ca2.inka.net.pe/bestcable/index.m3u8
-#EXTINF:0,Best Cable Spors Peru
+#EXTINF:24,Best Cable Spors Peru
 https://ca2.inka.net.pe/bestcablesports/index.m3u8
-#EXTINF:0,BHTV
+#EXTINF:28,BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:0,Cadena TV
+#EXTINF:76,Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
-#EXTINF:0,Cajamarca TV
-https://ca2.inka.net.pe/cajamarcatv/index.m3u8
-#EXTINF:0,Canal 8 Catacaos
+#EXTINF:76,Canal 8 Catacaos
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-#EXTINF:0,Canal E
+#EXTINF:30,Canal E
 https://stream.plixitv.live/westv/westv/playlist.m3u8
-#EXTINF:0,Caribe Television
-http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
-#EXTINF:0,Central TV
+#EXTINF:31,Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:0,Charapa TV
+#EXTINF:22,Charapa TV
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
-#EXTINF:0,Chincha TV
+#EXTINF:164,Chincha TV
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
-#EXTINF:0,Cine Club TV
+#EXTINF:80,Cine Club TV
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:0,ClipsTV
+#EXTINF:82,ClipsTV
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-#EXTINF:0,CNC Digital
-https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
-#EXTINF:0,CN TV
+#EXTINF:20,CN TV
 https://tv.inka.net.pe/cntv/index.m3u8
-#EXTINF:0,Conecta2TV
+#EXTINF:81,CNC Digital
+https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
+#EXTINF:79,Conecta2TV
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:30,Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
-#EXTINF:0,Contacto Deportivo
+#EXTINF:21,Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:0,Controversia TV
+#EXTINF:20,Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:0,CreoTV
-https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-#EXTINF:0,CR Television
+#EXTINF:20,CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:0,CTC
-http://190.108.83.142:8000/play/a007/index.m3u8
-#EXTINF:0,Diaspora TV
+#EXTINF:24,CreoTV
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:78,Diaspora TV
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-#EXTINF:0,DMJ
+#EXTINF:24,DMJ
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
-#EXTINF:0,Doble C Television
+#EXTINF:79,Doble C Television
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:0,Fuego TV 1
-http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:0,Fuego TV 2
-https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:0,Galactica TV
+#EXTINF:79,Galactica TV
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
-#EXTINF:0,Genios TV
+#EXTINF:20,Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:0,Hatun TV
+#EXTINF:20,Hatun TV
 https://ca2.inka.net.pe/bestcablehatuntv/index.m3u8
-#EXTINF:0,Huacho Peru TV
-https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
-#EXTINF:0,Huanuco en vivo
-https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
-#EXTINF:0,Identidad TV
+#EXTINF:32, Hechicera TV | PE
+#EXTVLCOPT:network-caching=1000
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:0,Imagen Television Rioja
-http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
-#EXTINF:0,Imperial Television
-https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
-#EXTINF:0,Intuitiva TV
+#EXTINF:30,Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:0,La Abeja
+#EXTINF:166, JN19 | PE
+#EXTVLCOPT:network-caching=1000
+https://servilive.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:95, Karibeña TV | PE
+#EXTVLCOPT:network-caching=1000
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:36,La Abeja
 http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
-#EXTINF:0,La Islilla TV
-http://190.108.83.142:8000/play/a00b/index.m3u8
-#EXTINF:0,La Riberena
+#EXTINF:24,La Riberena
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:0,LimaLive
+#EXTINF:78,LimaLive
 https://vdo.grupolimalive.com:3245/multi_web/play_720.m3u8
-#EXTINF:0,LotPlus TV
+#EXTINF:29,LotPlus TV
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-#EXTINF:0,Master TV
+#EXTINF:30,Master TV
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:0,Matices TV
-http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:0,Mega TV Arequipa
+#EXTINF:60,Mega TV Arequipa
 https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:0,Mega TV Jaen
+#EXTINF:75,Mega TV Jaen
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:0,Miel TV
+#EXTINF:24, Memorias TV * | PE
+#EXTVLCOPT:network-caching=1000
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+#EXTINF:78,Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:0,Millenium 109 FM
+#EXTINF:18,Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:0,Millenium TV
-https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-#EXTINF:11,Minedu IPTV 1
+#EXTINF:12,Minedu IPTV 1
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
-#EXTINF:28,Minedu IPTV 2
+#EXTINF:29,Minedu IPTV 2
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-#EXTINF:0,Mitos TV
-https://inliveserver.com:1936/19018/19018/playlist.m3u8
-#EXTINF:0,Nacional TV
+#EXTINF:30, Monterrico TV | PE
+#EXTVLCOPT:network-caching=1000
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:32, Mundo de la Musica TV | CL
+#EXTVLCOPT:network-caching=1000
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:25,Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:0,Nativa TV Satipo
+#EXTINF:77,Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:0,Nazarenas TV
+#EXTINF:30,Nazarenas TV
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:20,NorSelva RTV
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:0,Nuestra TV Lima
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/nuestratvlima
-#EXTINF:0,Oasis RTV
+#EXTINF:74,Oasis RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:29,OK TeVe
+#EXTINF:30,OK TeVe
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
-#EXTINF:0,Onda Digital
+#EXTINF:28,Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:0,Oriental TV
+#EXTINF:30,Oriental TV
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-#EXTINF:0,Ovacion TV 1
+#EXTINF:27,Ovacion TV 1
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0,Ovacion TV 2
+#EXTINF:27,Ovacion TV 2
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0,PBO
+#EXTINF:31,PBO
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
-#EXTINF:0,Peru Magico
-http://38.131.11.9:1080/play/a0dh
-#EXTINF:0,PeruvianRadio TV
+#EXTINF:28,PeruvianRadio TV
 https://stmv.panel.grupolimalive.com/peruvian/peruvian/playlist.m3u8
-#EXTINF:0,Piura TV
-http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:0,Planeta TV
+#EXTINF:20,Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:0,Primavera 15
+#EXTINF:29,Primavera 15
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
-#EXTINF:0,QT Television
+#EXTINF:76,QT Television
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:0,Radio Calor
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/calortv
-#EXTINF:0,Radio Chalaca
-https://megastreamm.com:3611/stream/play.m3u8
-#EXTINF:0,Radio El Pueblo
+#EXTINF:23,Radio El Pueblo
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-#EXTINF:0,Radio Inka TV
+#EXTINF:89,Radio Inka TV
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
-#EXTINF:0,Radio San Borja TV
+#EXTINF:27,Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:0,Radio Tropical
+#EXTINF:19,Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:0,Radio TV Juanjui
+#EXTINF:80,Radio TV Juanjui
 https://videosenlared.fullstreaming.ar:3664/live/juanjuitvlive.m3u8
-#EXTINF:0,Radio TV Oriente
+#EXTINF:28,Radio TV Oriente
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
-#EXTINF:0,Radio TV Tendencias
+#EXTINF:75,Radio TV Tendencias
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-#EXTINF:0,Radio Uno Tacna
+#EXTINF:34,Radio Uno Tacna
 https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
-#EXTINF:0,Radio y TV Filadelfia
-https://streamlive8.hearthis.at/hls/9355343_hi/index.m3u8
-#EXTINF:30,RCR
+#EXTINF:29,RCR
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:79,Region TV Callao
+#EXTINF:77,Region TV Callao
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:0,RN Television
+#EXTINF:28,RN Television
 https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
-#EXTINF:0,RPP TV
-http://38.131.11.9:1080/play/a0d8
-#EXTINF:0,RTV Total Yurimaguas
+#EXTINF:79,RTV Total Yurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:0,SanjuaneraTV
+#EXTINF:20,SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:0,SelvaMia TV
-https://inliveserver.com:1936/18022/18022/playlist.m3u8
-#EXTINF:0,Sistema 1
-https://paneltv.rstreaminghd.net:3042/live/sistema1tvlive.m3u8
-#EXTINF:0,Sol Stereo TV
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:0,SolTV
+#EXTINF:60,SolTV
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-#EXTINF:0,Sumac TV
+#EXTINF:20,Sumac TV
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:0,Super Canal
+#EXTINF:80,Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:0,Super TV
+#EXTINF:78,Super TV
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:0,SurTV
-https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
-#EXTINF:0,Tele2000
+#EXTINF:79,Tele2000
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:0,Teleamazonas
+#EXTINF:29,Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-#EXTINF:0,Telecolor Yurimaguas
+#EXTINF:21,Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:0,Telesur Camana
+#EXTINF:33,Telesur Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:0,Telesur Ilo
+#EXTINF:25,Telesur Ilo
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:0,Telesur Mollendo
+#EXTINF:25,Telesur Mollendo
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-#EXTINF:0,Telesur Moquegua
+#EXTINF:25,Telesur Moquegua
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:0,Telesur Tacna
-https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-#EXTINF:0,Television Tarapoto
+#EXTINF:36,Television Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:0,Top TV
+#EXTINF:30, TOP Latino TV | PE
+#EXTVLCOPT:network-caching=1000
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:80,Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:0,TPTO Channel
+#EXTINF:29,TPTO Channel
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:0,Trivu
+#EXTINF:77,Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:0,Tropical TV
+#EXTINF:28,Tropical TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
-#EXTINF:0,Turbo Mix Radio TV
+#EXTINF:79,Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:0,TV5
-https://live.obslivestream.com/tv5/index.m3u8
-#EXTINF:0,TV Bella Asuncion
+#EXTINF:80,TV Bella Asuncion
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:30,TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:0,TVenLinea
-https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:80,TVFaces Peru
-https://tvdatta.com:3211/stream/play.m3u8
-#EXTINF:0,TV Huarmey
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
-#EXTINF:80,TV Palmeras
+#EXTINF:30, TV Cosmos 15.1 | PE
+#EXTVLCOPT:network-caching=1000
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:79,TV Palmeras
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
-#EXTINF:0,TV Peruanisima
+#EXTINF:31,TV Peruanisima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-#EXTINF:0,TV Sistemas Cuzco
+#EXTINF:24,TV Sistemas Cuzco
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:0,Uchu TV 1
-http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:0,Uchu TV 2
-https://tna5.bozztv.com/Cusco/index.m3u8
-#EXTINF:8,Unife TV
+#EXTINF:20,TV5
+https://live.obslivestream.com/tv5/index.m3u8
+#EXTINF:79,TVenLinea
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:85,TVFaces Peru
+https://tvdatta.com:3211/stream/play.m3u8
+#EXTINF:10,Unife TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u
-#EXTINF:0,Unitel
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-#EXTINF:0,Uranio TV
+#EXTINF:20,Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:0,Vamisa TV
+#EXTINF:27,Vamisa TV
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
-#EXTINF:0,Via Altomayo
+#EXTINF:20,Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:0,Via Television
+#EXTINF:32,Via Television
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
-#EXTINF:0,Vision Sur
+#EXTINF:36,Vision Sur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:0,Vision TV Musica
+#EXTINF:28,Vision TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:0,VNP
+#EXTINF:30,VNP
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:0,X TV Chachapoyas
+#EXTINF:71,X TV Chachapoyas
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
